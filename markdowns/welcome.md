@@ -32,7 +32,7 @@ Example:
 * 7 is prime
 * ...
 
-Let's print all prime numbers (<255 of course), in a comma separated list
+Let's print all prime numbers (<256 of course), in a comma separated list
 
 # Let's start
 
