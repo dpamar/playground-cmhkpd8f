@@ -4,7 +4,7 @@ Welcome to this new playground about the BF language. Make sure you already read
 * [Getting started with BrainFuck](https://tech.io/playgrounds/50426/getting-started-with-brainfuck/welcome)
 * [BrainFuck part 2 - Working with arrays](https://tech.io/playgrounds/50443/brainfuck-part-2---working-with-arrays/welcome)
 * [BrainFuck part 3 - Write a BF interpreter in BF](https://www.codingame.com/playgrounds/50446/brainfuck-part-3---write-a-bf-interpreter-in-bf/welcome)
-* [BrainFuck part 4 - Advanced maths](https://www.codingame.com/playgrounds/50446/brainfuck-part-3---write-a-bf-interpreter-in-bf/welcome)
+* [BrainFuck part 4 - Advanced maths](https://www.codingame.com/playgrounds/50455/brainfuck-part-4---advanced-maths/welcome)
 
 playgrounds if you didn't already !
 
