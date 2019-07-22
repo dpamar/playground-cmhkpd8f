@@ -6,4 +6,6 @@ plan:
   statement: markdowns/fibo.md
 - title: Pascal's triangle
   statement: markdowns/pascal.md
+- title: Collatz sequence
+  statement: markdowns/collatz.md
 
