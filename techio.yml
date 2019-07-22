@@ -4,4 +4,6 @@ plan:
   statement: markdowns/welcome.md
 - title: Fibonacci sequence
   statement: markdowns/fibo.md
+- title: Pascal's triangle
+  statement: markdowns/pascal.md
 
