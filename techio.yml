@@ -2,3 +2,6 @@ title: Custom Template
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
+- title: Fibonacci sequence
+  statement: markdowns/fibo.md
+
